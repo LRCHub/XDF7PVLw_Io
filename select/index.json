@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "愛をとりもどせ!!",
+  "base_artist": "クリスタルキング",
+  "createdAt": "2026-02-08T08:00:54.954469Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "愛をとりもどせ!!",
+      "artist": "クリスタルキング",
+      "has_synced": true,
+      "path": "select/01_愛をとりもどせ!!_クリスタルキング.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "愛をとりもどせ!!",
+      "artist": "Crystal King",
+      "has_synced": false,
+      "path": "select/02_愛をとりもどせ!!_Crystal_King.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "愛をとりもどせ!!",
+      "artist": "クリスタルキング",
+      "has_synced": true,
+      "path": "select/03_愛をとりもどせ!!_クリスタルキング.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "愛をとりもどせ!! (北斗の拳)",
+      "artist": "Crystal King",
+      "has_synced": true,
+      "path": "select/04_愛をとりもどせ!!_(北斗の拳)_Crystal_King.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "愛をとりもどせ!!",
+      "artist": "青木望",
+      "has_synced": false,
+      "path": "select/05_愛をとりもどせ!!_青木望.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "愛をとりもどせ‼",
+      "artist": "クリスタルキング",
+      "has_synced": true,
+      "path": "select/06_愛をとりもどせ!!_クリスタルキング.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "愛をとりもどせ‼ (MOVIE ver. Instrumental)",
+      "artist": "クリスタルキング featuring Yoshio Nomura",
+      "has_synced": false,
+      "path": "select/07_愛をとりもどせ!!_(MOVIE_ver._Instrumental)_クリスタルキング_featuring_Yoshio_Nomura.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "愛をとりもどせ!! (MOVIE ver.) (真救世主伝説 北斗の拳 ラオウ伝 殉愛の章)",
+      "artist": "CRYSTAL KING",
+      "has_synced": true,
+      "path": "select/08_愛をとりもどせ!!_(MOVIE_ver.)_(真救世主伝説_北斗の拳_ラオウ伝_殉愛の章)_CRYSTAL_KING.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "クリスタルキング/愛をとりもどせ!!",
+      "artist": "Crystal King",
+      "has_synced": true,
+      "path": "select/09_クリスタルキング_愛をとりもどせ!!_Crystal_King.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Ai wo torimodose!! / 愛をとりもどせ!!",
+      "artist": "CRYSTAL KING",
+      "has_synced": true,
+      "path": "select/10_Ai_wo_torimodose!!___愛をとりもどせ!!_CRYSTAL_KING.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "愛をとりもどせ!!",
+      "artist": "ANIMETAL",
+      "has_synced": true,
+      "path": "select/11_愛をとりもどせ!!_ANIMETAL.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "愛をとりもどせ!! (MOVIE ver.)",
+      "artist": "クリスタルキング",
+      "has_synced": true,
+      "path": "select/12_愛をとりもどせ!!_(MOVIE_ver.)_クリスタルキング.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "愛をとりもどせ‼",
+      "artist": "クリスタルキング",
+      "has_synced": true,
+      "path": "select/13_愛をとりもどせ!!_クリスタルキング.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "愛をとりもどせ!!",
+      "artist": "CRYSTALKING",
+      "has_synced": true,
+      "path": "select/14_愛をとりもどせ!!_CRYSTALKING.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "愛をとりもどせ!!",
+      "artist": "クリスタルキング",
+      "has_synced": true,
+      "path": "select/15_愛をとりもどせ!!_クリスタルキング.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "愛をとりもどせ (Moviever.)",
+      "artist": "CRYSTALKING",
+      "has_synced": true,
+      "path": "select/16_愛をとりもどせ_(Moviever.)_CRYSTALKING.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "愛をとりもどせ!!",
+      "artist": "アニメタル",
+      "has_synced": true,
+      "path": "select/17_愛をとりもどせ!!_アニメタル.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "愛をとりもどせ!!",
+      "artist": "クリスタルキング",
+      "has_synced": false,
+      "path": "select/pl_01_愛をとりもどせ!!_クリスタルキング.txt"
+    }
+  ]
+}
